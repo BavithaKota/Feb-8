@@ -1,0 +1,7 @@
+a=float(input('enter no of km:'))
+cm=100000*a
+print(a,'km in cm is:',cm)
+
+output
+enter no of km:2.5
+2.5 km in cm is: 250000.0
